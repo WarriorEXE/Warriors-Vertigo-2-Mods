@@ -23,7 +23,7 @@ such as:
 
 revolver has 1000 bullets and shoots 100 times per second
 
-shotgun has x4 recoil
+all guns have x4 recoil
 
 DO NOT PUT A HAT ON
 
