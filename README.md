@@ -9,6 +9,15 @@ Melonloader is REQUIRED for any mods that you find here, or for until i make a c
 I am currently working on a few mods:
 
 
+No Manual Reload--
+=
+no manual reload essentially removes your ammo belt so you cant reload
+
+how am i supposed to reload then?
+thanks to vertigo 2's built-in automatic reload system, this is literally the only way you will be able to reload
+
+--
+=
 Fucked Gremlins--
 =
 makes all gremlins upside-down and the boat gremlin on chapter 9 literally have a stroke lmao
