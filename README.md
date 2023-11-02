@@ -13,6 +13,7 @@ No Manual Reload--
 =
 no manual reload essentially removes your ammo belt so you cant reload
 
+
 "how am i supposed to reload then?"
 
 thanks to vertigo 2's built-in automatic reload system, this is literally the only way you will be able to reload
