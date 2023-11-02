@@ -20,6 +20,17 @@ thanks to vertigo 2's built-in automatic reload system, this is literally the on
 
 --
 =
+Shuffle Levels--
+=
+shuffle levels makes it so that you literally cant choose what level you go to
+
+
+"what do you mean?"
+
+every time you click on any button to go to any level, it chooses a random scene, and loads that instead of the one you were trying to load.
+
+--
+=
 Fucked Gremlins--
 =
 makes all gremlins upside-down and the boat gremlin on chapter 9 literally have a stroke lmao
