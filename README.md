@@ -9,7 +9,7 @@ Melonloader is REQUIRED for any mods that you find here, or for until i make a c
 also keep in mind that im taking mod requests right now so if you want to ask for a mod, join the Vertigo 2 discord and either dm me or ping me:
 https://discord.gg/hSv9aAhAcN
 
-there is currently a few mods (if it does not appear as a dll above this readme.txt file, it is still wip!!)
+there is currently a few mods (if you cant find it in the releases tab, it is still wip and unreleased.)
 
 
 No Manual Reload--
